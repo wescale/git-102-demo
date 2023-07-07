@@ -1,4 +1,4 @@
-# feat-b
+# feat-c
 
 This is implementation for spec-b. Which is needed for spec-bc.
 
